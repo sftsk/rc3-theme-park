@@ -7,7 +7,7 @@
         }
     },
  "height":100,
- "infinite":true,
+ "infinite":false,
  "layers":[
         {
          "chunks":[
