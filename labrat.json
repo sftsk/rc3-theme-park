@@ -353,7 +353,7 @@
                  "id":88,
                  "properties":[
                         {
-                         "name":"collisons",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -362,7 +362,7 @@
                  "id":89,
                  "properties":[
                         {
-                         "name":"collisons",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -380,7 +380,7 @@
                  "id":107,
                  "properties":[
                         {
-                         "name":"collisons",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -389,7 +389,7 @@
                  "id":108,
                  "properties":[
                         {
-                         "name":"collisons",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
