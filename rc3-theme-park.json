@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"#base"
+                 "value":"rc3-theme-park.json#base"
                 }],
          "type":"tilelayer",
          "visible":true,
