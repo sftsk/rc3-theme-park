@@ -85,7 +85,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"rc3-theme-park.json#hiddenEntrance"
+                 "value":"rc3-theme-park.json#base"
                 }],
          "type":"tilelayer",
          "visible":true,
