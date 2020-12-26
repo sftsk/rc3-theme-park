@@ -83,6 +83,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"rc3-theme-park.json#base"
+                }, 
+                {
                  "name":"exitUrl",
                  "type":"string",
                  "value":"rc3-theme-park.json#base"
